@@ -1,4 +1,16 @@
 
+# Amazon Prime Videos Database Prototype
+
+📄 **Project Description**
+
+This project is a data modeling and SQL demonstration of how a streaming platform like Amazon Prime Video might design and manage its backend database.
+
+It replicates core entities such as Users, Subscriptions, Movies, Genres, and Watch History, providing a realistic environment to perform SQL queries and analytics.
+
+The schema was built using MySQL with proper normalization, foreign key relationships, and data integrity constraints.
+Database is populated using Python and Faker library, allowing meaningful analysis and testing.
+
+
 ## 🧩 Features
 
 - Relational Database Design: 7 interlinked tables designed using an ER model.
