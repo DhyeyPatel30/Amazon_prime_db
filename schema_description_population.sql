@@ -1,3 +1,4 @@
+CREATE DATABASE IF NOT EXISTS amazon_prime_db;
 USE amazon_prime_db;
 
 CREATE TABLE Users (
